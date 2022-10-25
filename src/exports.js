@@ -1,4 +1,4 @@
-import XmlBuilder from "./XmlBuilder";
-import XmlElement from "./XmlElement";
+import XmlBuilder from "./XmlBuilder.js";
+import XmlElement from "./XmlElement.js";
 
 export { XmlBuilder, XmlElement };
