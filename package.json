@@ -1,15 +1,15 @@
 {
-  "name": "@nora-soderlund/xmlbuilder",
+  "name": "@nora-soderlund/xml",
   "version": "1.0.3",
-  "description": "A XML builder for JavaScript using JSON and JS helpers.",
+  "description": "A XML parser and stringifier for JavaScript using JSON and JS functions.",
   "main": "src/exports.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nora-soderlund/xmlbuilder.git"
+    "url": "git+https://github.com/nora-soderlund/xml.git"
   },
   "keywords": [
     "xml",
@@ -19,7 +19,7 @@
   "author": "Nora Söderlund",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nora-soderlund/xmlbuilder/issues"
+    "url": "https://github.com/nora-soderlund/xml/issues"
   },
-  "homepage": "https://github.com/nora-soderlund/xmlbuilder#readme"
+  "homepage": "https://github.com/nora-soderlund/xml#readme"
 }
